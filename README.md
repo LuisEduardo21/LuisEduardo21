@@ -1,0 +1,4 @@
+- 👋 Oi eu sou Luis Eduardo sou Estudante de Ciências da computação e trabalho com Desenvolvimento Web
+- 👀 Eu gosto de aprendervariás tecnologias com react native, python, ciências de dados e outros
+- 🌱 eu tenho conhecimentos em algumas linguagens como java, angular, javascript, typerscript e junto com conhecimento em bancos de dados
+- A minha conta do linkedlin https://www.linkedin.com/in/luis-eduardo-araujo-f-da-silva-11b56315b/
