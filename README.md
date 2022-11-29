@@ -1,4 +1,4 @@
 - 👋 Oi eu sou Luis Eduardo sou Estudante de Analise e Desenvolvimento de sistemas e trabalho com Desenvolvimento Web e Mobile.
-- 👀 Eu gosto de aprender variás tecnologias com react, react native, python, ciências de dados e outros
+- 👀 Eu gosto de aprender variás tecnologias com react, react native, python,javascript, typescript ciências de dados e outros
 - 🌱 eu tenho conhecimentos em algumas linguagens como java, angular, javascript, typerscript e junto com conhecimento em bancos de dados
 - A minha conta do linkedlin https://www.linkedin.com/in/luis-eduardo-araujo-f-da-silva-11b56315b/
