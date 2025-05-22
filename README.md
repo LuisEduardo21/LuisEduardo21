@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Luis Eduardo Araujo Figueiredo da Silva
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Uninassau, com experiência prática em **Desenvolvimento Web e Mobile**, focado em entregar soluções eficientes e de qualidade.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Anhaguera, com experiência prática em **Desenvolvimento Web e Mobile**, focado em entregar soluções eficientes e de qualidade.
 
 💼 Atualmente trabalho como **Desenvolvedor Web e Mobile Pleno** na **Segsat**, onde sou responsável pela criação e manutenção de sistemas internos e externos utilizando **React (JavaScript e TypeScript)**, além do desenvolvimento de aplicativos com **React Native** e **Flutter**.
 
